@@ -1,5 +1,5 @@
 :root {
-  --color-primary: hsl(335, 100%, 50%);
+  --color-primary: #ff006a;
 }
 .App {
   background-color: hsl(0, 0%, 5%);
